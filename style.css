@@ -1,0 +1,20 @@
+@media (max-width: 768px){
+    nav {
+        display: none !important;
+    }
+}
+
+.navbar-fixed-left {
+    width: 10%;
+    float: left;
+}
+
+.container {
+    width: 90%;
+    float: left;
+}
+
+.kleur:hover {
+   background-color: blue;
+    color: white;
+}
